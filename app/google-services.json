@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986668836863",
+    "firebase_url": "https://fortnite-guia.firebaseio.com",
+    "project_id": "fortnite-guia",
+    "storage_bucket": "fortnite-guia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986668836863:android:8dfbe05c7a6eadf7",
+        "android_client_info": {
+          "package_name": "com.grupogeekblogs.alejandrorodriguezuson.guideforfortnite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986668836863-4jup5t1l4pdqkvprc03if8bpiqjrib8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grupogeekblogs.alejandrorodriguezuson.guideforfortnite",
+            "certificate_hash": "d28f91d638b085aba2dd6c84bfa11ab02a272c1d"
+          }
+        },
+        {
+          "client_id": "986668836863-1oqf37u8gnc0c7rsh73n5hgfuauk5j37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkANNU2uNleL87vg_UMWQpUo9bjb5HB2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986668836863-1oqf37u8gnc0c7rsh73n5hgfuauk5j37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

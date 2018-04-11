@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="40dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:textColor="@color/blanco"
+        android:textSize="50dp"
+        android:theme="@style/EditTextTheme"
+        android:fontFamily="@font/fuente_fortnite"
+        android:text="Login"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:theme="@style/EditTextTheme"
+        android:textColorHint="@color/blanco">
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/blanco"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
+            android:hint="   Username"
+            android:textColorHint="@color/blanco"
+            android:inputType="textPersonName"
+            android:textColor="@color/blanco"
+            android:textColorLink="@color/blanco"
+            android:shadowColor="@color/blanco"
+            android:textColorHighlight="@color/blanco"
+            android:textSize="20sp"
+            android:theme="@style/EditTextTheme"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:theme="@style/EditTextTheme"
+        android:textColorHint="@color/blanco">
+
+        <EditText
+            android:theme="@style/EditTextTheme"
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/blanco"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:hint="   Passwoard"
+            android:textColorHint="@color/blanco"
+            android:shadowColor="@color/blanco"
+            android:textColorHighlight="@color/blanco"
+            android:inputType="textPassword"
+            android:textColor="@color/blanco"
+            android:textColorLink="@color/blanco"
+            android:textSize="20sp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TextView
+        android:theme="@style/EditTextTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="16dp"
+        android:text="Register"
+        android:id="@+id/register"
+        android:textColor="@color/blanco"
+        android:textSize="16sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/loginButton"
+        android:background="@color/blanco"
+        android:text="Log In"
+        android:textColor="@color/colorPrimary" />
+
+</LinearLayout>

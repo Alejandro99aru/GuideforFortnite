@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Guide for Fortnite</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mapa">Map</string>
+    <string name="noticias">News</string>
+    <string name="trucos">Tricks and tips</string>
+    <string name="armas">Weapons</string>
+    <string name="chat">Chat</string>
+    <string name="construcciones">Constructions</string>
+
+
+
+    <string name="trucos_desc">The best tips and tricks to improve your game technique.</string>
+    <string name="skins_desc">All skins of suits, beaks, parachutes and dances.</string>
+    <string name="armas_desc">All weapons with their types of oddities and tricks to learn to master them.</string>
+    <string name="news_desc">Inform yourself of all the news related to the game.</string>
+
+    <string name="armas_url">http://bit.ly/2Du3y9x</string>
+    <string name="construcciones_url">http://bit.ly/2n7LLLe</string>
+    <string name="noticias_url">http://bit.ly/2m6wiLz</string>
+    <string name="skins_url">http://bit.ly/2rmsDym</string>
+    <string name="trucos_url">http://bit.ly/2F5R0Co</string>
+
+
+
+    <string name="ad_unit_id">ca-app-pub-5854979842846146/3001702557</string>
+
+    <string name="str_cargada">News correctly loaded</string>
+
+    <string name="navigation_drawer_open">Hola</string>
+
+    <string name="navigation_drawer_close">Adios</string>
+
+    <string name="conexion_internet">No tienes conexión a internet</string>
+
+    <string name="html">
+        <![CDATA[
+        <h2><span id="Rarezas_de_las_armas_en_Fortnite_Battle_Royale">Rarezas de las armas en Fortnite Battle Royale</span></h2>
+        <p style="text-align: justify;">El sistema es bastante previsible y similar a otros juegos. Cuando más rara sea el arma, mejor sus estadísticas. Y cada nivel de rareza está representado por un color, que te mostramos para que los identifiques, ordenados de menos a más raro:</p>
+        <ul style="text-align: justify;">
+        <li>Común: gris</li>
+        <li>No común: verde</li>
+        <li>Rara: azul</li>
+        <li>Épica: Morado</li>
+        <li>Legendaria: Naranja</li>
+        <li>Mítica: Dorado</li>
+        </ul>
+        <p style="text-align: justify;">Ahora que ya sabes como funciona, pasemos a ver todas las armas y sus estadísticas:</p>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspPistolas">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;Pistolas</span></h2>
+        <p style="text-align: justify;">Las pistolas obviamente tienen sus limitaciones, pero ojo a la semiautomática,&nbsp;cuyo DPS no tiene nada que envidiar a armas mucho más llamativas</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Magazine&nbsp;Size</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Revolver (Común)</td>
+        <td width="40">&nbsp;48</td>
+        <td width="44">&nbsp;54</td>
+        <td width="104">&nbsp;6</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Revolver (No Común)</td>
+        <td width="40">&nbsp;51</td>
+        <td width="44">&nbsp;57</td>
+        <td width="104">&nbsp;6</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Revolver (Rara)</td>
+        <td width="40">&nbsp;54</td>
+        <td width="44">&nbsp;60</td>
+        <td width="104">&nbsp;6</td>
+        </tr>
+        <tr>
+        <td width="251">Pistola semiautomática (Común)</td>
+        <td width="40">&nbsp;155</td>
+        <td width="44">&nbsp;23</td>
+        <td width="104">&nbsp;16</td>
+        </tr>
+        <tr>
+        <td width="251">Pistola semiautomática (No Común)&nbsp;</td>
+        <td width="40">&nbsp;162</td>
+        <td width="44">&nbsp;24</td>
+        <td width="104">&nbsp;16</td>
+        </tr>
+        <tr>
+        <td width="251">Pistola semiautomática (Rara)</td>
+        <td width="40">&nbsp;169</td>
+        <td width="44">&nbsp;25</td>
+        <td width="104">&nbsp;16</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspEscopetas">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;Escopetas</span></h2>
+        <p style="text-align: justify;">Tanto por cargador como por DPS, la semiautomática es bastante más práctica que la normal. Aunque el daño de un impacto de la normal es casi el mismo que el de un rifle francotirador.</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">Escopeta (Común)</td>
+        <td width="40">&nbsp;63</td>
+        <td width="44">90&nbsp;</td>
+        <td width="104">&nbsp;5</td>
+        </tr>
+        <tr>
+        <td width="251">Escopeta (No Común)&nbsp;</td>
+        <td width="40">&nbsp;66</td>
+        <td width="44">95&nbsp;</td>
+        <td width="104">&nbsp;5</td>
+        </tr>
+        <tr>
+        <td width="251">Escopeta semiautomática (No Común)</td>
+        <td width="40">&nbsp;100</td>
+        <td width="44">67&nbsp;</td>
+        <td width="104">&nbsp;8</td>
+        </tr>
+        <tr>
+        <td width="251">Escopeta semiautomática (Rara)</td>
+        <td width="40">&nbsp;105</td>
+        <td width="44">70&nbsp;</td>
+        <td width="104">&nbsp;8</td>
+        </tr>
+        <tr>
+        <td width="251">Escopeta semiautomática (Épico)</td>
+        <td width="40">&nbsp;111</td>
+        <td width="44">73&nbsp;</td>
+        <td width="104">&nbsp;8</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211_Rifles_de_asalto">Mejores Armas de Fortnite Battle Royale &#8211; Rifles de asalto</span></h2>
+        <p>La M16 es un gran arma y fácil de conseguir, probablemente la opción a por la que hay que ir. Pero ojo porque casi cualquier otro rifle de asalto de cierta rareza tiene muy buenas prestaciones. Así que atentos a los colores.</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño&nbsp;</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">Rifle &nbsp;Semi-Auto (Común)</td>
+        <td width="40">&nbsp;118</td>
+        <td width="44">&nbsp;29</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">Rifle &nbsp;Semi-Auto (No Común)</td>
+        <td width="40">&nbsp;122</td>
+        <td width="44">&nbsp;30</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">M16 (Común)&nbsp;</td>
+        <td width="40">&nbsp;176</td>
+        <td width="44">&nbsp;32</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;M16 (No Común)</td>
+        <td width="40">&nbsp;181</td>
+        <td width="44">&nbsp;33&nbsp;</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;M16 (Rara)</td>
+        <td width="40">&nbsp;192</td>
+        <td width="44">&nbsp;35</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;SCAR (Épico)</td>
+        <td width="40">&nbsp;203</td>
+        <td width="44">&nbsp;37</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">Rifle &nbsp;Semi-Auto(Rara)</td>
+        <td width="40">&nbsp;203</td>
+        <td width="44">&nbsp;37</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;SCAR (Legendaria)</td>
+        <td width="40">&nbsp;214</td>
+        <td width="44">&nbsp;39</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">Rifle de alcance (Rara)</td>
+        <td width="40">&nbsp;80</td>
+        <td width="44">&nbsp;23</td>
+        <td width="104">&nbsp;20</td>
+        </tr>
+        <tr>
+        <td width="251">Rifle de alcance (Épico)</td>
+        <td width="40">&nbsp;84</td>
+        <td width="44">&nbsp;24</td>
+        <td width="104">&nbsp;20</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspSMG">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;SMG</span></h2>
+        <p style="text-align: justify;">Las SMG funcionan bien en general, aunque a priori son&nbsp;unas armas intermedias y polivalentes, más flexibles que los rifles de asalto o los snipers, pero sin las prestaciones de ninguno de los dos en sus ámbitos</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">Ametralladora (Común)</td>
+        <td width="40">&nbsp;150</td>
+        <td width="44">10&nbsp;</td>
+        <td width="104">&nbsp;25</td>
+        </tr>
+        <tr>
+        <td width="251">Ametralladora (No Común)&nbsp;</td>
+        <td width="40">&nbsp;165</td>
+        <td width="44">11&nbsp;</td>
+        <td width="104">&nbsp;25</td>
+        </tr>
+        <tr>
+        <td width="251">SMG Táctica (No Común)</td>
+        <td width="40">&nbsp;140</td>
+        <td width="44">14&nbsp;</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">SMG Táctica (Rara)&nbsp;</td>
+        <td width="40">&nbsp;150</td>
+        <td width="44">15&nbsp;</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">SMG Táctica (Épico)</td>
+        <td width="40">&nbsp;160</td>
+        <td width="44">16&nbsp;</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        <tr>
+        <td width="251">SMG Táctica (Legendaria)</td>
+        <td width="40">&nbsp;170</td>
+        <td width="44">17&nbsp;</td>
+        <td width="104">&nbsp;30</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspFrancotirador">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;Francotirador</span></h2>
+        <p>Si quieres un francotirador clásico y contundente el de cerrojo, si quieres algo un poco más polivalente el semiautomático</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">AWP de cerrojo (Rara)&nbsp;</td>
+        <td width="40">&nbsp;35</td>
+        <td width="44">105&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        <tr>
+        <td width="251">AWP de cerrojo (Épico)&nbsp;&nbsp;</td>
+        <td width="40">&nbsp;37</td>
+        <td width="44">110&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        <tr>
+        <td width="251">AWP de cerrojo (Legendaria)&nbsp;</td>
+        <td width="40">&nbsp;38</td>
+        <td width="44">116&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        <tr>
+        <td width="251">Sniper Semiautomático (Épico)</td>
+        <td width="40">&nbsp;75&nbsp;</td>
+        <td width="44">63&nbsp;</td>
+        <td width="104">&nbsp;10</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Sniper Semiautomático (Legendaria)</td>
+        <td width="40">&nbsp;80</td>
+        <td width="44">66&nbsp;</td>
+        <td width="104">&nbsp;10</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspLanzacohetes">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;Lanzacohetes</span></h2>
+        <p>Los lanzacohetes no requieren mucha explicación, ahí tienes sus stats:</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Lanzacohetes (Rara)</td>
+        <td width="40">&nbsp;82</td>
+        <td width="44">110&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Lanzacohetes (Épico)&nbsp;</td>
+        <td width="40">&nbsp;87</td>
+        <td width="44">116&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        <tr>
+        <td width="251">&nbsp;Lanzacohetes (Legendaria)</td>
+        <td width="40">&nbsp;91</td>
+        <td width="44">121&nbsp;</td>
+        <td width="104">&nbsp;1</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2 style="text-align: justify;"><span id="Mejores_Armas_de_Fortnite_Battle_Royale_8211nbspLanzagranadas">Mejores Armas de Fortnite Battle Royale &#8211;&nbsp;Lanzagranadas</span></h2>
+        <p>Lo mismo con los lanzagranadas, aquí puedes ver sus estadísticas:</p>
+        <table width="439">
+        <tbody>
+        <tr>
+        <td width="251">Arma</td>
+        <td width="40">DPS</td>
+        <td width="44">Daño</td>
+        <td width="104">Cargador</td>
+        </tr>
+        <tr>
+        <td width="251">Lanzagranadas (Rara)</td>
+        <td width="40">&nbsp;100</td>
+        <td width="44">&nbsp;100</td>
+        <td width="104">&nbsp;6</td>
+        </tr>
+        <tr>
+        <td width="251">Lanzagranadas (Legendaria)&nbsp;</td>
+        <td width="40">&nbsp;110</td>
+        <td width="44">&nbsp;110</td>
+        <td width="104">&nbsp;6</td>
+        </tr>
+        </tbody>
+        </table>
+        <h2><span id="Entonces_Que_arma_es_la_mejor">¿Entonces? ¿Qué arma es la mejor?</span></h2>
+        <p style="text-align: justify;">No hay un mejor arma&nbsp;en Battle Royale, dependerá de cada situación, de tu estilo de juego, y de la facilidad para encontrarla.</p>
+                ]]>
+    </string>
+
+    <string name="trucos_html">
+        <![CDATA[
+        <h2>No pares nunca</h2>
+<p>Mucho ojo con relajarte y tomarte tu tiempo para echar un vistazo al inventario o al escenario. Est&aacute;s regalando tiempo para que un enemigo te dispare a la cabeza. <strong>Corre, salta, mu&eacute;vete fren&eacute;ticamente</strong>, y si est&aacute;s en combate abierto y directo contra un enemigo, hazlo m&aacute;s a&uacute;n. Cuanto m&aacute;s err&aacute;tico sea tu movimiento m&aacute;s le costar&aacute; a tu enemigo alcanzarte.</p>
+<h2>Configura el teclado</h2>
+<p>Como hemos dicho, Fortnite Battle Royale es un juego r&aacute;pido. Incluso fren&eacute;tico en ciertas ocasiones, por lo que tener todo a mano es vital. P&aacute;sate por el men&uacute; de configuraci&oacute;n para dejar cada tecla ajustada a su funci&oacute;n. <strong>Presta especial atenci&oacute;n al aspecto de la construcci&oacute;n</strong>, ya que los muros y escaleras son b&aacute;sicos como defensa y huida, as&iacute; que coloca estas funciones en teclas accesibles y memor&iacute;zalas bien.</p>
+<h2>Los materiales importan</h2>
+<p>Quiz&aacute; vengas de otros t&iacute;tulos como PUBG y pienses que talar un &aacute;rbol o recoger todos los enseres de un cuerpo difundo en el escenario no suponga una gran diferencia. Sin embargo, en Fortnite Battle Royale construirte un fuerte r&aacute;pido dentro de la zona de seguridad es clave. Sobre todo si llegas a los &uacute;ltimos momentos de la partida. As&iacute; que, no dudes en dedicar algo de tiempo al principio de entrar en combate a recoger, sobre todo, madera. <strong>Las rampas y los fuertes (cuatro paredes) son clave en este t&iacute;tulo</strong>.</p>
+<h2>Cuidado con los lugares elevados</h2>
+<p>Mucho ojo cuando corretees por el mapeado de Fortnite Battle Royale. No dejes de moverte, <strong>pero nunca en las crestas de cerros y monta&ntilde;as</strong>. En estas posiciones eres como una aut&eacute;ntica pi&ntilde;ata: eres llamativo y todos querr&aacute;n golpearte. No dudes en caminar por laderas con la cabeza siempre a cubierto, o esconderte en cada arbusto que veas.</p>
+<h2>Cada arma en su momento</h2>
+<p>En los juegos de disparos hay rifles francotirador, metralletas y escopetas y pistolas por muchas razones. Y la m&aacute;s importante no es la variedad o dar gusto a todos los usuarios. Los jugadores m&aacute;s expertos saben que cada tipo de disparo es &uacute;til en un momento, situaci&oacute;n y lugar. Los rifles ayudan a acabar con enemigos a larga distancia sin ser visto. Por su parte, la cadencia de la metralleta permite defenderse y atacar r&aacute;pidamente. En cambio, guarda las <strong>escopetas para entornos cerrados</strong>, acertar&aacute;s seguro causando gran da&ntilde;o.</p>
+<h2>Pociones azules s&iacute;, pero con cuidado</h2>
+<p>Las pociones azules de Fortnite Battle Royale no son instant&aacute;neas, pero s&iacute; permanentes. Con ellas conseguimos una capa de blindaje extra realmente &uacute;til para los peores momentos. El &uacute;nico problema es que se tarda mucho tiempo en tomarlas. Por ello, y a ser posible, <strong>hazlo en solitario y lo antes posible</strong>, cuando la tensi&oacute;n del jugo a&uacute;n no concentra la acci&oacute;n en momentos r&aacute;pidos. De esta manera tendr&aacute;s la protecci&oacute;n y arriesgar&aacute;s lo m&iacute;nimo.</p>
+<h2>Las trampas tambi&eacute;n son &uacute;tiles</h2>
+<p>La gracia de las partidas Battle Royale es que son realmente din&aacute;micas. Sin embargo, siempre hay momentos para plantarse en una edificaci&oacute;n y hacerse un fuerte durante unos minutos. En estos momentos desplegar trampas en las zonas m&aacute;s sensibles o por donde pretendas protegerte ante un posible ataque puede ser clave. Las trampas de pinchos no solo son &uacute;tiles para acabar o debilitar enemigos, <strong>tambi&eacute;n pueden ayudarte a modo de alarma</strong> para conocer su ubicaci&oacute;n.</p>
+<h2>Juega con auriculares</h2>
+<p>M&aacute;s all&aacute; de sentirte un aut&eacute;ntico gamer, los auriculares en Fortnite Battle Royale te dar&aacute;n grandes pistas en los momentos m&aacute;s sensibles. Una bala perdida, un ataque fren&eacute;tico, un correteo cercano&hellip; <strong>son pistas audibles que delatan al enemigo</strong> y que pueden ser de vital importancia. Tanto por encontrarlos r&aacute;pidamente y acabar con ellos, como a la hora de evitar una emboscada. Juega con alta calidad de sonido siempre que puedas.</p>
+<h2>Ten el hacha siempre a mano</h2>
+<p>&iquest;Sabes que pr&aacute;cticamente todo es destructible en Fortnite Battle Royale? Y no hablamos de las estructuras que t&uacute; o tus enemigos pod&eacute;is construir en el mapeado. Las paredes, los techos, incluso los puentes, pueden ser derribados con el hacha. Puede ser realmente <strong>&uacute;til para crear una puerta de huida</strong> en una edificaci&oacute;n, o para eliminar un techado y construir una torre vig&iacute;a sin gastar materiales. Y a&uacute;n m&aacute;s, puedes descubrir cofres secretos en toda clase de lugares. Eso s&iacute;, aseg&uacute;rate de tener tiempo para usarla y no ser emboscado mientras tanto.</p>
+<h2>Recoge cada tesoro y caja fuerte que veas</h2>
+<p>Son las mejores fuentes de recursos y armas. Al abrir un cofre puedes hallar desde protecci&oacute;n, hasta grandes rifles y montones de material. Todo ello con solo invertir unos segundos en su apertura. Ojo con este detalle temporal, ya que puede ser utilizado por enemigos para realizar emboscadas, o simplemente una caracter&iacute;stica que les d&eacute; tiempo extra para atacarte. As&iacute; que, <strong>antes de abrir cualquier cofre, tesoro o caja, echa un vistazo alrededor</strong>. Por cierto, tambi&eacute;n emiten sonido, otra raz&oacute;n m&aacute;s para usar auriculares en tus partidas.</p>
+<p>Estos son solo algunos consejos de lo que puedes hacer para mejorar tus partidas en Fortnite Battle Royale. Pero hay muchos otros que poder llevar a cabo, entre los que se encuentran los aspectos t&eacute;cnicos. Aseg&uacute;rate de que el <strong>juego corre fluido en tu ordenador</strong>, y que cuentas con una <strong>buena conexi&oacute;n a Internet</strong> para no jugar en desventaja.</p>
+<p>Recuerda que tienes <strong>abierta nuestra secci&oacute;n de comentarios</strong> para compartir tus propias experiencias, sabidur&iacute;a, trucos y consejos. Nosotros seguiremos echando un vistazo a los profesionales y probando suerte en nuestras propias carnes para conseguir ganar victorias de la forma m&aacute;s eficaz posible.</p></body></html>
+        ]]>
+    </string>
+    <string name="title_activity_twitter">twitter</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_navigation_drawer">navigation_drawer</string>
+
+
+    <string name="share_via">Share via...</string>
+    <string name="share_text">Download the Guide for Fortnite application to improve your technique and be informed about the game http://bit.ly/2mTb57s</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">IrdPmUaRJpmB5UrN8UIEBXzvu</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">pMnRpZhQoFHz9DvDEJ0BSDnt0NXlw4VMUxLCQuMvOoxHb7vIXV</string>
+
+    <string name="url_trucos">http://bit.ly/2BrWC7O</string>
+    <string name="url_skins">http://bit.ly/2DCazpE</string>
+    <string name="url_armas">http://bit.ly/2FexCTQ</string>
+    <string name="url_construcciones">http://bit.ly/2FgqIh4</string>
+    <string name="url_noticias">https://guiafortnite.com/guide/news/</string>
+
+    //Url videos
+    <string name="video1">IyWGkmXB_xc</string>
+    <string name="video2">Z0zBx0vdARE</string>
+    <string name="video3">ONS-Bz-k1-Q</string>
+    <string name="video4">BZLYDjvHr-Y</string>
+    <string name="video5">BpC-WcogPyg</string>
+
+
+    <string name="banner_ad_unit_id_youtube">ca-app-pub-5854979842846146/3001702557</string>
+    <string name="banner_ad_unit_id_armas">ca-app-pub-5854979842846146/4598104610</string>
+    <string name="banner_ad_unit_id_trucos">ca-app-pub-5854979842846146/5573264612</string>
+    <string name="banner_ad_unit_id_construcciones">ca-app-pub-5854979842846146/8174898297</string>
+
+
+</resources>

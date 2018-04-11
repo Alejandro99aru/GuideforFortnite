@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:title="Menu">
+        <item
+            android:id="@+id/nav_trucos"
+            android:icon="@drawable/trucos_icon"
+            android:title="@string/trucos" />
+        <item
+            android:id="@+id/nav_armas"
+            android:icon="@drawable/armas_icons"
+            android:title="@string/armas" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="@string/mapa" />
+        <item
+            android:id="@+id/nav_noticias"
+            android:icon="@drawable/noticias_icon"
+            android:title="@string/noticias" />
+        <item
+            android:id="@+id/nav_skins"
+            android:icon="@drawable/img_skin"
+            android:title="Skins" />
+        <item
+            android:id="@+id/nav_construcciones"
+            android:icon="@drawable/construction_icon"
+            android:title="@string/construcciones" />
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@drawable/twitter_icon"
+            android:title="Twitter" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/chat_icon"
+            android:title="Chat" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

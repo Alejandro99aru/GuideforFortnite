@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.grupogeekblogs.alejandrorodriguezuson.guideforfortnite">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/web_hi_res_512"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/web_hi_res_512_1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".trucos"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Menu.Mapa"
+            android:label="@string/mapa"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menu.Noticias"
+            android:label="@string/noticias"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menu.Armas"
+            android:label="@string/armas"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chat.Chat"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chat.Login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chat.Register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".chat.Users"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menu.Skins"
+            android:label="Skins"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".Intro.WelcomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menu.twitterMain"
+            android:label="Twitter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".twitter.twittermain"
+            android:label="Twitter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menu.Construcciones"
+            android:label="@string/construcciones"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/construction_icon" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/tw__composer_blue" />
+
+        <activity
+            android:name=".navigation_drawer"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".wallpapers.ImagesActivity"></activity>
+        <activity android:name=".wallpapers.MainActivityWallpapers"></activity>
+
+    </application>
+
+</manifest>
